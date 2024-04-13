@@ -1,6 +1,6 @@
 # Startup-Expansion-Analysis-Python-Power-BI
 
-- Kaggle Notebook: [https://www.kaggle.com/code/ahmedmohammedhamada/startup-expansion-data-analysis]
+- You can see the Notebook on Kaggle: [https://www.kaggle.com/code/ahmedmohammedhamada/startup-expansion-data-analysis]
 
 <img src="Zcreenshot 2023-08-14 204657.png">
 
